@@ -6,5 +6,7 @@ pink
 bule 
 red 
 white 
+Green
+yellow
 
 this is color my poem
